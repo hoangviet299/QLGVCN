@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "QLGVCN"
+    }
+  },
+  "defaultProject": "QLGVCN",
+  "cli": {
+    "analytics": "9f226a0e-ce79-4043-bdbe-1b8bc245f105"
+  }
 }
